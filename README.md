@@ -3,4 +3,4 @@ I am super excited
 
  ## Goal 
 
- I will master Git/Github, also tom i have to finish cursor 
+ I will master Git/Github, also tom i have to finish cursor. lets see what happening
